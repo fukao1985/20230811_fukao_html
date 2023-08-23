@@ -1,0 +1,22 @@
+.about {
+    background-color: #ebebeb;
+    padding: 60px 0;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.about__img img {
+    width: 100%;
+}
+
+.about__img {
+    margin-top: -80px;
+    /* position: relative;
+top: -80px; 使う必要はない*/
+    width: 40%;
+}
+
+.about__content {
+    width: 40%;
+}
